@@ -285,3 +285,6 @@
 2026-07-23 21:22:20.239 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
 2026-07-23 21:22:41.113 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCnSFZ-olBoLGLRUS_3RI2Aw
 2026-07-23 21:22:41.290 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001A4282B8810>
+2026-07-23 21:24:35.033 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:24:42.556 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCnSFZ-olBoLGLRUS_3RI2Aw
+2026-07-23 21:24:42.662 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FCC4B7C710>
