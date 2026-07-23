@@ -135,3 +135,153 @@
 2026-07-20 15:19:08.003 | SUCCESS  | backend.main:startup:28 - CreatorLens AI started successfully.
 2026-07-20 15:19:22.296 | SUCCESS  | backend.main:startup:28 - CreatorLens AI started successfully.
 2026-07-20 15:19:46.231 | INFO     | backend.main:ping:52 - Ping request received.
+2026-07-20 15:27:09.435 | SUCCESS  | backend.main:startup:28 - CreatorLens AI started successfully.
+2026-07-23 18:21:22.403 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:22:26.472 | ERROR    | backend.src.services.URLValidateService:validate_url:12 - Url is not correct unable to get video information
+2026-07-23 18:22:57.505 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:23:04.464 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:23:10.719 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:23:20.242 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: http://www.youtube.com/watch?v=lSPHucggmLo
+2026-07-23 18:23:20.430 | ERROR    | backend.src.services.URLValidateService:validate_url:13 - Url is not correct unable to get video information
+2026-07-23 18:23:50.655 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:23:53.170 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:24:06.677 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:24:16.444 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:24:18.961 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:24:24.041 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: http://www.youtube.com/watch?v=lSPHucggmLo
+2026-07-23 18:24:24.207 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001C6BCA9CA10>
+2026-07-23 18:24:24.209 | ERROR    | backend.src.services.URLValidateService:validate_url:14 - Url is not correct unable to get video information
+2026-07-23 18:27:42.446 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:28:25.222 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 18:28:26.013 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000012A5CBB4650>
+2026-07-23 18:28:26.013 | ERROR    | backend.src.services.URLValidateService:validate_url:14 - Url is not correct unable to get video information
+2026-07-23 18:30:33.193 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 18:30:46.273 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 18:30:46.427 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000002306A13CB90>
+2026-07-23 18:30:46.427 | ERROR    | backend.src.services.URLValidateService:validate_url:14 - yt-dlp error: expected string or bytes-like object, got 'HttpUrl'
+2026-07-23 19:27:49.582 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:28:05.044 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:28:11.925 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:28:26.346 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:28:31.660 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:28:37.364 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:28:37.911 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000002ADBE8F9B50>
+2026-07-23 19:28:37.912 | ERROR    | backend.src.services.URLValidateService:validate_url:14 - yt-dlp error: expected string or bytes-like object, got 'HttpUrl'
+2026-07-23 19:29:06.357 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:29:09.632 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:30:18.412 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:30:18.624 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000024D07237F90>
+2026-07-23 19:30:57.083 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:31:00.117 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:31:00.353 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000022442357B90>
+2026-07-23 19:35:04.752 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:36:01.057 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:36:01.249 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000024337EC8950>
+2026-07-23 19:36:47.199 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:36:50.628 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:36:50.894 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000016043147BD0>
+2026-07-23 19:37:21.521 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:37:28.830 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:37:32.129 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:37:33.630 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:37:33.809 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001ECC4AB7AD0>
+2026-07-23 19:37:38.041 | INFO     | backend.src.services.URLValidateService:validate_url:13 - Video information extracted successfully: dict_keys(['id', 'title', 'formats', 'thumbnails', 'thumbnail', 'description', 'channel_id', 'channel_url', 'duration', 'view_count', 'average_rating', 'age_limit', 'webpage_url', 'categories', 'tags', 'playable_in_embed', 'live_status', 'media_type', 'release_timestamp', '_format_sort_fields', 'automatic_captions', 'subtitles', 'comment_count', 'chapters', 'heatmap', 'like_count', 'channel', 'channel_follower_count', 'creators', 'channel_is_verified', 'uploader', 'uploader_id', 'uploader_url', 'upload_date', 'timestamp', 'availability', 'original_url', 'webpage_url_basename', 'webpage_url_domain', 'extractor', 'extractor_key', 'playlist', 'playlist_index', 'display_id', 'fulltitle', 'duration_string', 'release_year', 'is_live', 'was_live', 'requested_subtitles', '_has_drm', 'epoch', 'requested_formats', 'format', 'format_id', 'ext', 'protocol', 'language', 'format_note', 'filesize_approx', 'tbr', 'width', 'height', 'resolution', 'fps', 'dynamic_range', 'vcodec', 'vbr', 'stretched_ratio', 'aspect_ratio', 'acodec', 'abr', 'asr', 'audio_channels'])
+2026-07-23 19:46:31.238 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:47:05.729 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:57:18.733 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 19:58:35.700 | INFO     | backend.src.services.URLValidateService:validate_url:6 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 19:58:36.536 | INFO     | backend.src.services.URLValidateService:validate_url:9 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000020F4FB07C90>
+2026-07-23 19:58:45.533 | INFO     | backend.src.services.URLValidateService:validate_url:13 - Video information extracted successfully: N/A
+2026-07-23 20:01:38.957 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:02:33.306 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:02:42.520 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:02:45.954 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:03:02.254 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 20:03:02.727 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001AECC168D50>
+2026-07-23 20:03:07.013 | INFO     | backend.src.services.URLValidateService:validate_url:15 - Video information extracted successfully: N/A
+2026-07-23 20:07:40.185 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:07:42.410 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:07:47.409 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+2026-07-23 20:07:47.526 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFCA7C050>
+2026-07-23 20:07:50.473 | INFO     | backend.src.services.URLValidateService:validate_url:15 - Video information extracted successfully: N/A
+2026-07-23 20:09:04.951 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=JGwWNGJdvx8
+2026-07-23 20:09:05.012 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFC76BD50>
+2026-07-23 20:09:08.379 | INFO     | backend.src.services.URLValidateService:validate_url:15 - Video information extracted successfully: N/A
+2026-07-23 20:10:30.866 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://youtu.be/dQw4w9WgXcQ
+2026-07-23 20:10:30.993 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFCD48790>
+2026-07-23 20:10:33.514 | INFO     | backend.src.services.URLValidateService:validate_url:15 - Video information extracted successfully: N/A
+2026-07-23 20:11:33.648 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=aaaaaaaaaaa
+2026-07-23 20:11:33.734 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFD4065D0>
+2026-07-23 20:11:35.390 | ERROR    | backend.src.services.URLValidateService:validate_url:31 - yt-dlp error: [0;31mERROR:[0m [youtube] aaaaaaaaaaa: Video unavailable
+2026-07-23 20:12:21.930 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=JGwWNGJdvx8
+2026-07-23 20:12:22.024 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFCACEED0>
+2026-07-23 20:12:25.552 | INFO     | backend.src.services.URLValidateService:validate_url:15 - Video information extracted successfully: N/A
+2026-07-23 20:22:03.504 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UC0C-w0YjGpqDXGB8IHb662A
+2026-07-23 20:22:03.749 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x0000029CFD3DFA90>
+2026-07-23 20:40:12.532 | ERROR    | backend.src.services.URLValidateService:validate_url:31 - yt-dlp error: [0;31mERROR:[0m [youtube] v4GIfNf7AYk: This content isn't available, try again later. The current session has been rate-limited by YouTube for up to an hour. It is recommended to use `-t sleep` to add a delay between video requests to avoid exceeding the rate limit. For more information, refer to  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#this-content-isnt-available-try-again-later
+2026-07-23 20:52:03.095 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:52:29.005 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=W0DM5lcj6mw
+2026-07-23 20:52:29.458 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000229101F85D0>
+2026-07-23 20:52:37.350 | INFO     | backend.src.services.URLValidateService:validate_url:16 - Video information extracted successfully: N/A
+2026-07-23 20:55:05.409 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:55:09.807 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:55:14.232 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:13.265 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:26.177 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:28.855 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:38.241 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:49.424 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:53.736 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 20:59:57.194 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:00:10.571 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:00:44.159 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:00:46.437 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:00:58.512 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:17.594 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:32.631 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:36.424 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:40.996 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:43.157 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:01:53.520 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:09.309 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:15.171 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:17.832 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:21.359 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:24.225 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:41.362 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:02:44.030 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:03:20.946 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:03:27.055 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:20.875 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:28.609 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:33.675 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:37.399 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:40.079 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:04:52.781 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:15.683 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:26.479 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:30.621 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:35.577 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:39.008 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:42.371 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:46.254 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:05:49.830 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:06:06.146 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:06:14.382 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/watch?v=W0DM5lcj6mw
+2026-07-23 21:06:14.516 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001EFE8A684D0>
+2026-07-23 21:06:19.568 | INFO     | backend.src.services.URLValidateService:validate_url:30 - Video information extracted successfully: N/A
+2026-07-23 21:06:46.393 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg
+2026-07-23 21:06:46.462 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001EFE8A69510>
+2026-07-23 21:08:55.700 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:09:03.997 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg
+2026-07-23 21:09:04.162 | INFO     | backend.src.services.URLValidateService:validate_url:11 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001EC40F9C4D0>
+2026-07-23 21:15:11.069 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:15:35.055 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg
+2026-07-23 21:15:35.200 | INFO     | backend.src.services.URLValidateService:validate_url:16 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001F329FAC710>
+2026-07-23 21:19:31.472 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:20:18.432 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://youtu.be/ALf-fMfznEs?si=LYpGQ7F_ZA7xQB-y
+2026-07-23 21:20:18.608 | INFO     | backend.src.services.URLValidateService:validate_url:16 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001BA76EAC950>
+2026-07-23 21:20:21.026 | INFO     | backend.src.services.URLValidateService:validate_url:35 - Video information extracted successfully: N/A
+2026-07-23 21:22:20.239 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-23 21:22:41.113 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCnSFZ-olBoLGLRUS_3RI2Aw
+2026-07-23 21:22:41.290 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001A4282B8810>

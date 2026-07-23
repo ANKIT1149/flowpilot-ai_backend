@@ -7,6 +7,7 @@ from backend.src.api.health import health
 from backend.src.database.repositories.session import get_db 
 from backend.src.api.health import test
 from fastapi.middleware.cors import CORSMiddleware
+from backend.src.api.routes.service.urlvalidating import router  as url_validation_router
 
 app = FastAPI(
     title=settings.APP_NAME,
@@ -51,3 +52,5 @@ async def test_redis():
 def ping():
     logger.info("Ping request received.")
     return {"message": "pong"}
+
+app.include_router(url_validation_router)
