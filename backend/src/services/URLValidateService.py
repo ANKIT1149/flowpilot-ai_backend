@@ -5,6 +5,12 @@ from backend.src.model.URLValidateModel import ChannelPreview, VideoPreview
 
 
 async def validate_url(url: str):
+    if url == "":
+        raise HTTPException(
+            status_code=400,
+            detail="Please Provide URL...",
+        )
+    
     logger.info(f"Validating URL: {url}")
     ydl = yt_dlp.YoutubeDL(
         {
@@ -48,10 +54,11 @@ async def validate_url(url: str):
                 verified=info["channel_is_verified"],
                 views=info["view_count"],
                 upload_date=info["upload_date"],
+                timestamp=info["timestamp"],
             )
     except Exception as e:
         logger.error(f"yt-dlp error: {e}")
-        return HTTPException(
+        raise HTTPException(
             status_code=400,
             detail="Invalid URL or unable to extract video information.",
         )

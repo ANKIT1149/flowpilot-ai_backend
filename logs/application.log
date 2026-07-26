@@ -288,3 +288,156 @@
 2026-07-23 21:24:35.033 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
 2026-07-23 21:24:42.556 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://www.youtube.com/channel/UCnSFZ-olBoLGLRUS_3RI2Aw
 2026-07-23 21:24:42.662 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FCC4B7C710>
+2026-07-25 23:22:36.103 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:25:50.604 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://youtu.be/W0DM5lcj6mw?si=wcWVtquOIenSmkE5
+2026-07-25 23:25:51.140 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001F87532D9D0>
+2026-07-25 23:26:06.766 | INFO     | backend.src.services.URLValidateService:validate_url:36 - Video information extracted successfully: N/A
+2026-07-25 23:28:04.190 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:28:20.241 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:28:49.189 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:28:56.014 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:28:56.066 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://youtu.be/W0DM5lcj6mw?si=wcWVtquOIenSmkE5
+2026-07-25 23:28:56.446 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000002935A358390>
+2026-07-25 23:29:00.008 | INFO     | backend.src.services.URLValidateService:validate_url:36 - Video information extracted successfully: N/A
+2026-07-25 23:29:00.135 | ERROR    | backend.src.services.URLValidateService:validate_url:54 - yt-dlp error: 1 validation error for VideoPreview
+timestamp
+  Input should be a valid string [type=string_type, input_value=1517494778, input_type=int]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-07-25 23:29:48.696 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:29:55.033 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-25 23:30:01.436 | INFO     | backend.src.services.URLValidateService:validate_url:8 - Validating URL: https://youtu.be/W0DM5lcj6mw?si=wcWVtquOIenSmkE5
+2026-07-25 23:30:02.196 | INFO     | backend.src.services.URLValidateService:validate_url:17 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000278F97584D0>
+2026-07-25 23:30:06.611 | INFO     | backend.src.services.URLValidateService:validate_url:36 - Video information extracted successfully: N/A
+2026-07-26 00:17:14.089 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 00:17:25.073 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 00:17:42.387 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 00:18:19.715 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 00:18:28.361 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 01:13:54.736 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 01:14:05.330 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 01:14:08.464 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE53108750>
+2026-07-26 01:14:21.955 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 01:14:21.956 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 01:15:33.840 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 01:15:34.434 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE535AC610>
+2026-07-26 01:15:36.198 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 01:15:36.200 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 01:20:05.184 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/W0DM5lcj6mw?si=UnL-wK2zvnik28HI
+2026-07-26 01:20:08.161 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE534D2810>
+2026-07-26 01:20:15.393 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 01:23:43.033 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/W0DM5lcj6mw?si=UnL-wK2zvnik28HI
+2026-07-26 01:23:43.393 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE535D2CD0>
+2026-07-26 01:23:46.855 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 01:30:15.364 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://www.youtube.com/watch?v=W0DM5lcj6mw
+2026-07-26 01:30:15.841 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE53583950>
+2026-07-26 01:30:18.863 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 01:32:12.763 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://www.youtube.com/watch?v=W0DM5lcj6mw
+2026-07-26 01:32:13.177 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE53603F90>
+2026-07-26 01:32:15.914 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:03:34.666 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:03:39.778 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE534BDF50>
+2026-07-26 02:03:42.230 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:03:42.507 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:08:15.373 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:08:17.314 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE534BF510>
+2026-07-26 02:08:22.850 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:08:22.871 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:08:42.590 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:08:43.481 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE55209C50>
+2026-07-26 02:08:47.143 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:08:47.144 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:12:39.251 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:12:40.914 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001FE534AFE50>
+2026-07-26 02:12:45.224 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:12:45.348 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:17:24.866 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 02:17:29.651 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 02:21:10.341 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:21:26.581 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001411D65D210>
+2026-07-26 02:21:43.316 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:21:43.322 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:22:03.489 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:22:05.350 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001411DB0CF10>
+2026-07-26 02:22:08.444 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:22:08.896 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:25:56.888 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:25:57.668 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001411DA0C650>
+2026-07-26 02:25:59.991 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:25:59.993 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:29:00.049 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:29:02.053 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001411DA1E050>
+2026-07-26 02:29:06.562 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 02:29:06.563 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-26 02:29:40.690 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 02:29:42.930 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x000001411DB0C990>
+2026-07-26 02:30:44.418 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: [0;31mERROR:[0m [generic] google: Unable to download webpage: [WinError 10051] A socket operation was attempted to an unreachable network (caused by TransportError('[WinError 10051] A socket operation was attempted to an unreachable network'))
+2026-07-26 02:31:17.061 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 23:26:40.408 | SUCCESS  | backend.main:startup:29 - CreatorLens AI started successfully.
+2026-07-26 23:27:11.310 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-26 23:27:12.020 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AF6EC890>
+2026-07-26 23:27:17.406 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-26 23:27:17.407 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:30:41.521 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:30:43.695 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFB8D6D0>
+2026-07-27 00:30:51.672 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: [0;31mERROR:[0m [generic] google: Unable to download webpage: [Errno 11001] getaddrinfo failed (caused by TransportError('[Errno 11001] getaddrinfo failed'))
+2026-07-27 00:50:04.536 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:50:04.973 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA9A3D0>
+2026-07-27 00:50:08.299 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:50:08.302 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:50:40.027 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:50:41.263 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA98ED0>
+2026-07-27 00:50:46.536 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:50:46.573 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:53:10.096 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:53:10.573 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA92690>
+2026-07-27 00:53:12.606 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:53:12.621 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:53:16.503 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:53:16.877 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA99890>
+2026-07-27 00:53:19.038 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:53:19.121 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:53:33.530 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:53:33.870 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201B0024A10>
+2026-07-27 00:53:35.442 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:53:35.444 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:54:29.796 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:54:31.689 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA98F50>
+2026-07-27 00:54:35.934 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:54:35.974 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:55:25.487 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:55:25.952 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201B0024B10>
+2026-07-27 00:55:27.631 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:55:27.633 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:55:30.605 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:55:30.941 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201B107B950>
+2026-07-27 00:55:33.741 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:55:33.747 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:55:58.535 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:55:58.895 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201B004E890>
+2026-07-27 00:56:01.634 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:56:01.641 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 00:56:10.664 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: http://google.com/
+2026-07-27 00:56:11.134 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFBA2050>
+2026-07-27 00:56:14.932 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 00:56:14.934 | ERROR    | backend.src.services.URLValidateService:validate_url:60 - yt-dlp error: 'id'
+2026-07-27 01:06:43.582 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/XxDl4_-H0vc?si=YY-qwsaJQ80RkHfa
+2026-07-27 01:06:45.637 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201B0041DD0>
+2026-07-27 01:07:46.929 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 01:09:14.232 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/XxDl4_-H0vc?si=YY-qwsaJQ80RkHfa
+2026-07-27 01:09:15.256 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFB99510>
+2026-07-27 01:09:25.900 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 01:33:05.996 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/0JwJUn_eYOo?si=yRyfzOZMYW79OQVH
+2026-07-27 01:33:08.121 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFAB1510>
+2026-07-27 01:33:15.102 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 01:34:26.254 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/0JwJUn_eYOo?si=yRyfzOZMYW79OQVH
+2026-07-27 01:34:27.757 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA93ED0>
+2026-07-27 01:34:37.171 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 01:40:29.678 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/0JwJUn_eYOo?si=ddoD3ZgxTGCkPWem
+2026-07-27 01:40:38.973 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFB99510>
+2026-07-27 01:40:47.738 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 02:01:35.376 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/0JwJUn_eYOo?si=y7wSn-ehWY8REaLy
+2026-07-27 02:01:40.109 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA98350>
+2026-07-27 02:01:57.263 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A
+2026-07-27 02:04:03.323 | INFO     | backend.src.services.URLValidateService:validate_url:14 - Validating URL: https://youtu.be/0JwJUn_eYOo?si=y7wSn-ehWY8REaLy
+2026-07-27 02:04:06.490 | INFO     | backend.src.services.URLValidateService:validate_url:23 - Extracting video information...: <yt_dlp.YoutubeDL.YoutubeDL object at 0x00000201AFA90910>
+2026-07-27 02:04:15.860 | INFO     | backend.src.services.URLValidateService:validate_url:42 - Video information extracted successfully: N/A

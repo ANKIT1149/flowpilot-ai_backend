@@ -3,7 +3,7 @@ from backend.src.services.URLValidateService import validate_url
 from backend.src.model.URLValidateModel import VideoRequest
 from backend.src.core.logging import logger
 
-router = APIRouter(prefix="/urlvalidate", tags=["URL Validation"])
+router = APIRouter()
 
 @router.post("/url_validate")
 async def url_validate(request: VideoRequest):

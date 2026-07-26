@@ -15,6 +15,7 @@ class VideoPreview(BaseModel):
     verified: bool
     views: int
     upload_date: str
+    timestamp: int
 
 
 class ChannelPreview(BaseModel):
